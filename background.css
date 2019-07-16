@@ -193,7 +193,7 @@ form.search input.searchbutton {
 	top: 0px; left: 0px;
 	width: 220px;
 	height: 100px;	
-	background: url(../images/stanford.png) no-repeat; 
+	background: url(../zhiyuanli/stanford.png) no-repeat; 
 }
 
 #header #header-image2 {
@@ -201,7 +201,7 @@ form.search input.searchbutton {
 	top: 0px; left: 220px;
 	width: 580px;
 	height: 100px;	
-	background: url(../images/header.jpg) repeat-x; 
+	background: url(../zhiyuanli/header.jpg) repeat-x; 
 }
 /* navigation tabs */
 #header ul {
@@ -260,7 +260,7 @@ form.search input.searchbutton {
 	font-size: 105%;
 	color: #FFF;
 	text-transform: uppercase; 
-	background-color: #820000;	
+	background-color: #023f88;	
 	letter-spacing: .5px;
 }
 
@@ -277,7 +277,7 @@ form.search input.searchbutton {
 	font-size: 105%;
 	color: #FFF;
 	text-transform: uppercase; 
-	background: #820000; 
+	background: #023f88; 
 	letter-spacing: 1px;	
 }
 
@@ -319,11 +319,14 @@ form.search input.searchbutton {
 	margin:10px 0px 0px 0px;
 	width: 220px;
 	height: 160px;	
-<<<<<<< HEAD
-	background: url(../images/me.jpg) no-repeat; 
-=======
 	background: url(../zhiyuanli/me.jpg) no-repeat; 
->>>>>>> 5d8f49573c106748a5c7997c4791d0e00f104b5b
+	
+	#sidebar #sidebar-image1 {
+	margin:10px 0px 0px 0px;
+	width: 220px;
+	height: 160px;	
+	background: url(../zhiyuanli/scmsb.png) no-repeat; 
+
 }
 
 
@@ -331,11 +334,7 @@ form.search input.searchbutton {
 .footer { 
 	clear: both; 	
 	border-top: 1px solid #f2f2f2;
-<<<<<<< HEAD
-	background: #FFF url(../images/footer.png) repeat-x;
-=======
 	background: #FFF url(../zhiyuanli/footer.png) repeat-x;
->>>>>>> 5d8f49573c106748a5c7997c4791d0e00f104b5b
 	padding: 2px 0 8px 0; 
 	text-align: center;  
 	line-height: 1em;	
@@ -361,8 +360,5 @@ form.search input.searchbutton {
 	padding: 5px 3px;
 	border-bottom: 1px solid #EFF0F1;
 	border-top: 1px solid #EFF0F1;
-<<<<<<< HEAD
 }
-=======
 }
->>>>>>> 5d8f49573c106748a5c7997c4791d0e00f104b5b
