@@ -201,7 +201,7 @@ form.search input.searchbutton {
 	top: 0px; left: 220px;
 	width: 580px;
 	height: 100px;	
-	background: url(../images/header.jpg) repeat-x; 
+	background: url(../zhiyuanli/header.jpg) repeat-x; 
 }
 /* navigation tabs */
 #header ul {
@@ -319,9 +319,8 @@ form.search input.searchbutton {
 	margin:10px 0px 0px 0px;
 	width: 220px;
 	height: 160px;	
-<<<<<<< HEAD
 	background: url(../zhiyuanli/me.jpg) no-repeat; 
->>>>>>> 5d8f49573c106748a5c7997c4791d0e00f104b5b
+
 }
 
 
@@ -329,9 +328,7 @@ form.search input.searchbutton {
 .footer { 
 	clear: both; 	
 	border-top: 1px solid #f2f2f2;
-<<<<<<< HEAD
 	background: #FFF url(../zhiyuanli/footer.png) repeat-x;
->>>>>>> 5d8f49573c106748a5c7997c4791d0e00f104b5b
 	padding: 2px 0 8px 0; 
 	text-align: center;  
 	line-height: 1em;	
@@ -357,7 +354,6 @@ form.search input.searchbutton {
 	padding: 5px 3px;
 	border-bottom: 1px solid #EFF0F1;
 	border-top: 1px solid #EFF0F1;
-<<<<<<< HEAD
 }
 =======
 }
