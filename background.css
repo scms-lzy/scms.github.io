@@ -320,6 +320,12 @@ form.search input.searchbutton {
 	width: 220px;
 	height: 160px;	
 	background: url(../zhiyuanli/me.jpg) no-repeat; 
+	
+	#sidebar #sidebar-image1 {
+	margin:10px 0px 0px 0px;
+	width: 220px;
+	height: 160px;	
+	background: url(../zhiyuanli/scmsb.png) no-repeat; 
 
 }
 
