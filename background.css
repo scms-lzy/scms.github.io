@@ -193,7 +193,7 @@ form.search input.searchbutton {
 	top: 0px; left: 0px;
 	width: 220px;
 	height: 100px;	
-	background: url(../images/scms.png) no-repeat; 
+	background: url(../zhiyuanli/scms.png) no-repeat; 
 }
 
 #header #header-image2 {
@@ -319,7 +319,14 @@ form.search input.searchbutton {
 	margin:10px 0px 0px 0px;
 	width: 220px;
 	height: 160px;	
-	background: url(../images/me.jpg) no-repeat; 
+	background: url(../zhiyuanli/me.jpg) no-repeat; 
+}
+
+#sidebar #sidebar-image2 {
+	margin:10px 0px 0px 0px;
+	width: 220px;
+	height: 160px;	
+	background: url(../zhiyuanli/scmsb.jpg) no-repeat; 
 }
 
 
@@ -327,7 +334,7 @@ form.search input.searchbutton {
 .footer { 
 	clear: both; 	
 	border-top: 1px solid #f2f2f2;
-	background: #FFF url(../images/footer.png) repeat-x;
+	background: #FFF url(../zhiyuanli/footer.png) repeat-x;
 	padding: 2px 0 8px 0; 
 	text-align: center;  
 	line-height: 1em;	
