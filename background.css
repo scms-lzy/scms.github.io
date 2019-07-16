@@ -320,8 +320,6 @@ form.search input.searchbutton {
 	width: 220px;
 	height: 160px;	
 <<<<<<< HEAD
-	background: url(../images/me.jpg) no-repeat; 
-=======
 	background: url(../zhiyuanli/me.jpg) no-repeat; 
 >>>>>>> 5d8f49573c106748a5c7997c4791d0e00f104b5b
 }
@@ -332,8 +330,6 @@ form.search input.searchbutton {
 	clear: both; 	
 	border-top: 1px solid #f2f2f2;
 <<<<<<< HEAD
-	background: #FFF url(../images/footer.png) repeat-x;
-=======
 	background: #FFF url(../zhiyuanli/footer.png) repeat-x;
 >>>>>>> 5d8f49573c106748a5c7997c4791d0e00f104b5b
 	padding: 2px 0 8px 0; 
